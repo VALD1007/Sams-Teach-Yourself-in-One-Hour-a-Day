@@ -42,5 +42,8 @@
     <ClCompile Include="listing06_09.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="listing06_10.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
