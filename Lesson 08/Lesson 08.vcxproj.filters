@@ -21,5 +21,8 @@
     <ClCompile Include="listing08_02.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="listing08_03.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
