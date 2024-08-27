@@ -14,7 +14,7 @@ int main()
 {
 	constexpr Human somePerson(15);
 	const int hisAge = somePerson.GetAge();
-	
+
 	Human anotherPerson(45); // not constant expression
 
 	return 0;
