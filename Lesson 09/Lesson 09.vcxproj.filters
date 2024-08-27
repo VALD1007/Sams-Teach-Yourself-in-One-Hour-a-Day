@@ -51,5 +51,8 @@
     <ClCompile Include="listing09_12.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="listing09_13.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
